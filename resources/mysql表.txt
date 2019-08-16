@@ -1,8 +1,8 @@
-ÊÂÊµ±í hbase
+äº‹å®è¡¨ hbase
 userId, projectId, timestamp, action
-ÓÃ»§±í mysql
+ç”¨æˆ·è¡¨ mysql
 userid, username, sex, age, registertime
-²úÆ·±í mysql
+äº§å“è¡¨ mysql
 projectid,color,diameter,style,Material,country
-ÓÃ»§ĞËÈ¤±í 
+ç”¨æˆ·å…´è¶£è¡¨
 userid,country,color,style
